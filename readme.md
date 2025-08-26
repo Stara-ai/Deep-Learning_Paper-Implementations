@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/labmlai?style=social)](https://twitter.com/labmlai)
+
 
 # [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
 
